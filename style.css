@@ -1,0 +1,10 @@
+body {
+  background: greenyellow;
+  color: black;
+  text-align: center;
+}
+
+.profile-img {
+  width:50%;
+  border-radius: 50%;
+}
